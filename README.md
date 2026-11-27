@@ -22,10 +22,14 @@ creator of [misery](https://ltut.lol).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="28" />
 </p>
 
-### website
-
 <a href="https://ltut.lol">
-  <img src="./assets/website.webp" width="32" alt="Website" />
+  <img src="./assets/website.webp" width="24" align="center" alt="" />
+  &nbsp;ltut.lol
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://misery.rent">
+  <img src="./assets/misery.png" width="24" align="center" alt="" />
+  &nbsp;misery.rent
 </a>
 
 <sub>most of my work is private.</sub>
