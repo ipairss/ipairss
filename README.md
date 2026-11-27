@@ -25,7 +25,7 @@ creator of [misery](https://ltut.lol).
 ### website
 
 <a href="https://ltut.lol">
-  <img src="./website.webp" width="100%" alt="ltut.lol" />
+  <img src="./assets/website.webp" width="100%" alt="website preview" />
 </a>
 
 <sub>most of my work is private.</sub>
